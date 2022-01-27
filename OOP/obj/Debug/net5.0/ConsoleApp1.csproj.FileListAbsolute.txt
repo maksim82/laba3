@@ -1,0 +1,56 @@
+C:\Users\redar\OneDrive\Рабочий стол\C# lesson\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+C:\Users\redar\OneDrive\Рабочий стол\C# lesson\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+C:\Users\redar\OneDrive\Рабочий стол\C# lesson\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+C:\Users\redar\OneDrive\Рабочий стол\C# lesson\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\redar\OneDrive\Рабочий стол\C# lesson\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+C:\Users\redar\OneDrive\Рабочий стол\C# lesson\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+C:\Users\redar\OneDrive\Рабочий стол\C# lesson\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\redar\OneDrive\Рабочий стол\C# lesson\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\redar\OneDrive\Рабочий стол\C# lesson\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redar\OneDrive\Рабочий стол\C# lesson\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\redar\OneDrive\Рабочий стол\C# lesson\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\redar\OneDrive\Рабочий стол\C# lesson\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\redar\OneDrive\Рабочий стол\C# lesson\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+C:\Users\redar\OneDrive\Рабочий стол\C# lesson\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+C:\Users\redar\OneDrive\Рабочий стол\C# lesson\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\redar\OneDrive\Рабочий стол\C# lesson\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\redar\OneDrive\Рабочий стол\C# lesson\OOP 1 lab\bin\Debug\net5.0\ConsoleApp1.exe
+C:\Users\redar\OneDrive\Рабочий стол\C# lesson\OOP 1 lab\bin\Debug\net5.0\ConsoleApp1.deps.json
+C:\Users\redar\OneDrive\Рабочий стол\C# lesson\OOP 1 lab\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+C:\Users\redar\OneDrive\Рабочий стол\C# lesson\OOP 1 lab\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\redar\OneDrive\Рабочий стол\C# lesson\OOP 1 lab\bin\Debug\net5.0\ConsoleApp1.dll
+C:\Users\redar\OneDrive\Рабочий стол\C# lesson\OOP 1 lab\bin\Debug\net5.0\ref\ConsoleApp1.dll
+C:\Users\redar\OneDrive\Рабочий стол\C# lesson\OOP 1 lab\bin\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\redar\OneDrive\Рабочий стол\C# lesson\OOP 1 lab\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\redar\OneDrive\Рабочий стол\C# lesson\OOP 1 lab\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redar\OneDrive\Рабочий стол\C# lesson\OOP 1 lab\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\redar\OneDrive\Рабочий стол\C# lesson\OOP 1 lab\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\redar\OneDrive\Рабочий стол\C# lesson\OOP 1 lab\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\redar\OneDrive\Рабочий стол\C# lesson\OOP 1 lab\obj\Debug\net5.0\ConsoleApp1.dll
+C:\Users\redar\OneDrive\Рабочий стол\C# lesson\OOP 1 lab\obj\Debug\net5.0\ref\ConsoleApp1.dll
+C:\Users\redar\OneDrive\Рабочий стол\C# lesson\OOP 1 lab\obj\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\redar\OneDrive\Рабочий стол\C# lesson\OOP 1 lab\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
+C:\Users\redar\Desktop\учеба\OOP 1 lab\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\redar\Desktop\учеба\OOP 1 lab\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redar\Desktop\учеба\OOP 1 lab\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\redar\Desktop\учеба\OOP 1 lab\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\redar\Desktop\учеба\OOP 1 lab\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\redar\Desktop\учеба\OOP 1 lab\obj\Debug\net5.0\ConsoleApp1.dll
+C:\Users\redar\Desktop\учеба\OOP 1 lab\obj\Debug\net5.0\ref\ConsoleApp1.dll
+C:\Users\redar\Desktop\учеба\OOP 1 lab\obj\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\redar\Desktop\учеба\OOP\bin\Debug\net5.0\ConsoleApp1.exe
+C:\Users\redar\Desktop\учеба\OOP\bin\Debug\net5.0\ConsoleApp1.deps.json
+C:\Users\redar\Desktop\учеба\OOP\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+C:\Users\redar\Desktop\учеба\OOP\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+C:\Users\redar\Desktop\учеба\OOP\bin\Debug\net5.0\ConsoleApp1.dll
+C:\Users\redar\Desktop\учеба\OOP\bin\Debug\net5.0\ref\ConsoleApp1.dll
+C:\Users\redar\Desktop\учеба\OOP\bin\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\redar\Desktop\учеба\OOP\obj\Debug\net5.0\ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\redar\Desktop\учеба\OOP\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\redar\Desktop\учеба\OOP\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\redar\Desktop\учеба\OOP\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.cs
+C:\Users\redar\Desktop\учеба\OOP\obj\Debug\net5.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\redar\Desktop\учеба\OOP\obj\Debug\net5.0\ConsoleApp1.dll
+C:\Users\redar\Desktop\учеба\OOP\obj\Debug\net5.0\ref\ConsoleApp1.dll
+C:\Users\redar\Desktop\учеба\OOP\obj\Debug\net5.0\ConsoleApp1.pdb
+C:\Users\redar\Desktop\учеба\OOP\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
